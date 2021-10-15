@@ -1,2 +1,4 @@
 # bootcamp_project
-Project done fduring first two weeks of bootcamp
+Project done during first two weeks of bootcamp
+
+Name: Daniel Carini Ortega
